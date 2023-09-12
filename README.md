@@ -39,7 +39,8 @@ bash train_vqa.sh
 
 ## Finetuned Checkpoint
 
-Please find our finetuned KAT checkpoint [here](https://drive.google.com/drive/folders/118OgjY9PjX3fyOc6ci0c25Yh_n5JtEqF?usp=sharing).
+Please find our reproduced finetuned KAT checkpoint and results [here](https://drive.google.com/drive/folders/118OgjY9PjX3fyOc6ci0c25Yh_n5JtEqF?usp=sharing).
+The candidate generation results are under ``reproduced_outputs``
 
 
 ## References
