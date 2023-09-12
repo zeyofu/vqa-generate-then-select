@@ -37,6 +37,10 @@ python build_vqa_input.py
 bash train_vqa.sh
 ```
 
+## Finetuned Checkpoint
+
+Please find our finetuned KAT checkpoint [here](https://drive.google.com/drive/folders/118OgjY9PjX3fyOc6ci0c25Yh_n5JtEqF?usp=sharing).
+
 
 ## References
 
